@@ -7,7 +7,7 @@ v=0
 
 for i in range(0,b):
 
-    x=int(input
+    x=int(input())
     v=v+x
 
 
